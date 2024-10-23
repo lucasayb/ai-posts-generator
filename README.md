@@ -11,8 +11,8 @@ This repository contains a project that works with LangChain and LangServe.
 
 1. Clone this repository:
    ```
-   git clone <repository-url>
-   cd <repository-name>
+   git clone git@github.com:lucasayb/ai-posts-generator.git
+   cd ai-posts-generator
    ```
 
 2. Create and activate a virtual environment:
