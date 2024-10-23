@@ -41,3 +41,9 @@ To run the LangServe application, execute:
 ```
 python main.py
 ```
+
+You can run it in dev mode too:
+
+```
+fastapi dev main.py  
+```
